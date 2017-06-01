@@ -1,0 +1,12 @@
+1.-Cambiado el width de la barra de navegación izquierda (.sidebar)
+
+  de width : 190px ;
+  a  width:  20%;
+  
+  cadena a buscar: .sidebar{widt.sidebar{width:
+  
+2.cambiado el tamaño del cuerpo del contenido (.main-content-inner)
+ 
+  de width: 100%
+  a width: 95%;
+  cadena a buscar: .main-content-inner{float:
