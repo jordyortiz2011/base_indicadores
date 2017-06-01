@@ -40,6 +40,7 @@
         <!-- ace scripts -->
         <script src="<?= base_url('public')?>/assets/js/ace-elements.min.js"></script>
         <script src="<?= base_url('public')?>/assets/js/ace.min.js"></script>
+        <script src="<?= base_url('public')?>/assets/mi_sidebar.js"></script>
 
         <!-- inline scripts related to this page -->
        
