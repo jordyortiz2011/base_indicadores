@@ -30,13 +30,13 @@ $this->load->view('comun/nav_cuerpo',  $data) ; ?>
             <!-- PAGE CONTENT BEGINS -->          
 
             <div class="row">
-                <h1>Cuadro  de Resumen 1</h1>
+                <h1>Cuadro  de Resumen A</h1>
             </div><!-- /.row -->
 
             <div class="hr hr32 hr-dotted"></div>
             
             <div class="row">
-                <h1>Cuadro  de Resumen 2 </h1>
+                <h1>Cuadro  de Resumen B </h1>
             </div><!-- /.row -->          
 
             <div class="hr hr32 hr-dotted"></div>
